@@ -1,6 +1,6 @@
 # TwitterWithNode.js
 
-[![Node.js 4.3.1](https://img.shields.io/badge/Java-1.8.0-orange.svg)](https://nodejs.org/en/)
+[![Node.js 4.3.1](https://img.shields.io/badge/Node.js-4.3.1-orange.svg)](https://nodejs.org/en/)
 [![Platforms OS X | Windows | Linux](https://img.shields.io/badge/Platforms-OS%20X%20%7C%20Windows%20%7C%20Linux%20-lightgray.svg)](https://nodejs.org/en/)
 
 # What is this repository for? ###
