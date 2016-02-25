@@ -1,3 +1,15 @@
+# TwitterWithNode.js
+
+[![Node.js 4.3.1](https://img.shields.io/badge/Java-1.8.0-orange.svg)](https://nodejs.org/en/)
+[![Platforms OS X | Windows | Linux](https://img.shields.io/badge/Platforms-OS%20X%20%7C%20Windows%20%7C%20Linux%20-lightgray.svg)](https://nodejs.org/en/)
+
+# What is this repository for? ###
+
+* Quick summary: Twitter Sample and Filter API for Node.js
+* Version 1.1.0
+
+# How do I get set up? ###
+
 1. Install nodejs on your computer: https://nodejs.org/en/
 
 2. Oepn your Terminal/Command Line Tool.
@@ -19,3 +31,9 @@
 9. Enjoy it.
 
 10. Remember Close the sever by Ctl+c
+
+# How to run program ###
+Use CMD/Terminal
+
+# Contribution guidelines ###
+* Bo Cheng Huang
